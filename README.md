@@ -20,5 +20,6 @@ A simple and interactive color mixer app built using React and Vite. Adjust RGB 
 ---
 
 📸 Screenshot
-
+![Image](https://github.com/user-attachments/assets/c5342c28-6935-436e-8723-42209776c159)
+![Image](https://github.com/user-attachments/assets/a50aaae4-fb46-40e5-8c01-a26fbcbcae8d)
 
